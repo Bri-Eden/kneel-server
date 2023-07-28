@@ -1,0 +1,11 @@
+{
+    "python.formatting.autopep8Path": "/home/brieden/.pyenv/shims/autopep8",
+    "python.linting.pylintEnabled": true,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportGeneralTypeIssues": "none"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+}
